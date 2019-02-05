@@ -31,4 +31,4 @@ When you run this program, it opens a terminal and asks you to enter the number 
 
 The GUI window will execute in full-screen, non-resizable mode to maximize the space for displaying disks. Note: there may be bugs attempting to run the program in a dual-monitor setup.
 
-The user can quit the program at any time without waiting for all th disks move onto the rightmost peg by hitting the 'Q' key or Ctrl-C.
+The user can quit the program at any time without waiting for all the disks move onto the rightmost peg by hitting the 'Q' key or Ctrl-C.
